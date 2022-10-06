@@ -1,6 +1,5 @@
 ### Hi there 👋
-![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord)
-![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/491174779278065689) 
+![Discord](https://img.shields.io/discord/557758060911919115?color=black&label=Discord&logo=discord)
 ---
 
 <a href="https://github.com/isBibong">
