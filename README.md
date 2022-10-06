@@ -9,6 +9,14 @@
 </ul>
 
 ---
+### 語言技能
+<ul>
+  <li>Java</li>
+  <li>C++</li>
+  <li>VB.NET</li>
+</ul>
+
+---
 ### 我的作品
 
 <details>
