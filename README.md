@@ -1,6 +1,13 @@
 ### 關於我
 
 [![Discord](https://img.shields.io/discord/557758060911919115?color=black&label=Discord&logo=discord)](https://discord.gg/CZC5jPS)
+### 開發環境
+
+<ul>
+  <li>IntelliJ IDEA</li>
+  <li>Visual Studio</li>
+</ul>
+
 ---
 ### 我的作品
 
