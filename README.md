@@ -1,22 +1,18 @@
-### Hi there 👋
+### 關於我
 
 [![Discord](https://img.shields.io/discord/557758060911919115?color=black&label=Discord&logo=discord)](https://discord.gg/CZC5jPS)
-
 ---
-
 ### 我的作品
 
 <details>
-<summary>
-  點此開啟
-</summary>
-<br />
+  <summary>
+    點此開啟
+  </summary>
+  <br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isBibong&repo=MinecraftAPI)](https://github.com/isBibong/MinecraftAPI)
-<br />
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isBibong&repo=MinecraftAPI)](https://github.com/isBibong/MinecraftAPI)
+  </br>
 </details>
-
-
 
 ---
 
