@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Discord](https://img.shields.io/discord/557758060911919115?color=black&label=Discord&logo=discord)
+[![Discord](https://img.shields.io/discord/557758060911919115?color=black&label=Discord&logo=discord)](https://discord.gg/CZC5jPS)
 ---
 
 <a href="https://github.com/isBibong">
