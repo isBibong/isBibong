@@ -24,7 +24,7 @@
     點此開啟
   </summary>
   <br>
-  
+
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isBibong&repo=MinecraftAPI)](https://github.com/isBibong/MinecraftAPI)
   </br>
 </details>
