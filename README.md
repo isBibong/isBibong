@@ -25,7 +25,7 @@
   </summary>
   <br>
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isBibong&repo=null)](https://github.com/isBibong/null)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isBibong&repo=Minecraft-EasyPluginLib)](https://github.com/isBibong/Minecraft-EasyPluginLib)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isBibong&repo=null)](https://github.com/isBibong/null)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isBibong&repo=null)](https://github.com/isBibong/null)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isBibong&repo=null)](https://github.com/isBibong/null)
