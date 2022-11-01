@@ -1,7 +1,6 @@
-### 關於我
-
+![profile views](https://komarev.com/ghpvc/?username=isBibong&style=plastic&color=FA90DD)
 [![Discord](https://img.shields.io/discord/557758060911919115?color=black&label=Discord&logo=discord)](https://discord.gg/CZC5jPS)
-### 開發環境
+### Development Environment
 
 <ul>
   <li>IntelliJ IDEA</li>
@@ -9,7 +8,7 @@
 </ul>
 
 ---
-### 語言技能
+### Skills
 <ul>
   <li>Java</li>
   <li>C++</li>
@@ -17,25 +16,26 @@
 </ul>
 
 ---
-### 我的作品
+### Games
+<ul>
+  <li>Genshin Imapct</li>
+  <li>Apex Legends</li>
+  <li>League of Legends</li>
+  <li>Counter-Strike Global Offensive</li>
+</ul>
+
+---
+### Personal Works
 
 <details>
   <summary>
     點此開啟
   </summary>
-  <br>
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isBibong&repo=Minecraft-EasyPluginLib)](https://github.com/isBibong/Minecraft-EasyPluginLib)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isBibong&repo=null)](https://github.com/isBibong/null)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isBibong&repo=null)](https://github.com/isBibong/null)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isBibong&repo=null)](https://github.com/isBibong/null)
 </details>
-
----
-
-<a href="https://github.com/isBibong">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=isBibong&theme=buefy&show_icons=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isBibong&theme=buefy&layout=compact" />
-</a>
 
 ---
