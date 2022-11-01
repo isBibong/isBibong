@@ -22,6 +22,7 @@
   <li>Apex Legends</li>
   <li>League of Legends</li>
   <li>Counter-Strike Global Offensive</li>
+  <li>Minecraft</li>
 </ul>
 
 ---
