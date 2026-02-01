@@ -11,17 +11,16 @@
 ### Skills
 <ul>
   <li>Java</li>
-  <li>C++</li>
-  <li>VB.NET</li>
+  <li>C Sharp</li>
 </ul>
 
 ---
 ### Games
 <ul>
+  <li>BrownDust II</li>
   <li>Genshin Imapct</li>
   <li>Apex Legends</li>
-  <li>League of Legends</li>
-  <li>Counter-Strike Global Offensive</li>
+  <li>Counter-Strike 2</li>
   <li>Minecraft</li>
 </ul>
 
@@ -32,7 +31,6 @@
   <summary>
     點此開啟
   </summary>
-
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isBibong&repo=Minecraft-EasyPluginLib)](https://github.com/isBibong/Minecraft-EasyPluginLib)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isBibong&repo=null)](https://github.com/isBibong/null)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=isBibong&repo=null)](https://github.com/isBibong/null)
