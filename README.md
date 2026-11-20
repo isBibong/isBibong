@@ -18,7 +18,7 @@
 ### Games
 <ul>
   <li>BrownDust II</li>
-  <li>Genshin Imapct</li>
+  <li>Warframe</li>
   <li>Apex Legends</li>
   <li>Counter-Strike 2</li>
   <li>Minecraft</li>
